@@ -1,16 +1,19 @@
-# Python Assignment 1
-
-This repository contains my Python Assignment 1.
+# Python Assignment
+This repository contains my Python Assignments.
 
 ## Assignment Details
-
-Task 1:
-task1.py file contains basic python program that takes two numbers as input from the user and perform the operations 
+Assignment 1:
+Task 1:python program that takes two numbers as input from the user and perform the operations 
 like Addition,Subtraction,Multiplication and Division.
 
-Task 2:
-task2.py file contains a simple Python program that accepts first name and last name from user and concatenates and
+Task 2: Python program that accepts first name and last name from user and concatenates and
 then displays a welcome message.
 
-## How to Run
-Open the file in any Python editor and run the program.
+Assignment 2:
+Task 1:python program that takes accepts a integer number from user and check condition for even or odd.
+
+Task 2: Python program that uses for loop to iterate through 1 to 50 and calculate sum and display it.
+
+
+
+
