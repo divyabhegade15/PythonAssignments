@@ -14,9 +14,19 @@ Task 1:python program that takes accepts a integer number from user and check co
 Task 2: Python program that uses for loop to iterate through 1 to 50 and calculate sum and display it.
 
 -->Assignment 3:
-Task 1:python program that takes defines a function named factorial and takes a number as argument and displays the factorial of that number.
+Task 1: python program that takes defines a function named factorial and takes a number as argument and displays the factorial of that number.
 
 Task 2: Python program that imports math module and perform calculations to find squareroot,logarithm and sine of a number.
+
+-->Assignment 4:
+Task 1: Python program that: Opens and reads a text file named sample.txt.
+      Prints its content line by line. Handles errors gracefully if the file does not exist.
+
+Task 2: Python program that: Takes user input and writes it to a file named output.txt.
+                             Appends additional data to the same file and Reads and displays the final content of the file.
+
+
+
 
 
 
